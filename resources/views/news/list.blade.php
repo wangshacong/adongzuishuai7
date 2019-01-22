@@ -7,14 +7,14 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9,IE=8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-    <meta name="apple-mobile-web-app-title" content="悦读日本">
+    <meta name="apple-mobile-web-app-title" content="">
     <meta http-equiv="Cache-Control" content="no-siteapp">
     <link rel="shortcut icon" href="http://www.readjp.com/favicon.ico">
 
     <link type="text/css" media="all" href="/css/autoptimize_ee9d79110222d655e9350d2e553347d0.css" rel="stylesheet">
-    <title>日本新闻报道 - 悦读日本</title>
-    <meta name="keywords" content="日本新闻,日本最新新闻报道,日本新闻网,日本新闻中文报道">
-    <meta name="description" content="日本新闻,日本最新新闻报道,日本新闻网,日本新闻中文报道">
+    <title>{{$dangqian_fenlei['fenlei_name']}}</title>
+    <meta name="keywords" content="{{$dangqian_fenlei['fenlei_name']}}">
+    <meta name="description" content="{{$dangqian_fenlei['fenlei_name']}}">
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 
     <!-- Core CSS -->

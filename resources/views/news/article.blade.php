@@ -7,17 +7,17 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9,IE=8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-    <meta name="apple-mobile-web-app-title" content="悦读日本">
+    <meta name="apple-mobile-web-app-title" content="">
     <meta http-equiv="Cache-Control" content="no-siteapp">
     <link rel="shortcut icon" href="http://www.readjp.com/favicon.ico">
 
     <link type="text/css" media="all" href="/css/autoptimize_ee9d79110222d655e9350d2e553347d0.css" rel="stylesheet">
-    <title>日本77岁老奶奶给23岁的自己说了一段话，感动了全日本……-悦读日本</title>
-    <link rel="prev" title="被誉为日本的骄傲，却因为在红白给米津玄师伴舞被骂了？" href="http://www.readjp.com/1957.html">
-    <link rel="next" title="日本少女遭车祸记忆每24小时后重置，在彻底忘记世界前：“我要和他求婚。”" href="http://www.readjp.com/1959.html">
-    <link rel="canonical" href="http://www.readjp.com/1958.html">
+    <title>{{$content['title']}}</title>
+    <link rel="prev" title="" href="">
+    <link rel="next" title=""href="">
+    <link rel="canonical">
     <meta name="keywords" content="新闻">
-    <meta name="description" content="日本77岁老奶奶给23岁的自己说了一段话，感动了全日本......">
+    <meta name="description" content="{{$content['title']}}">
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 
     <!-- Core CSS -->
